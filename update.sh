@@ -28,7 +28,7 @@ cd libpcap-1.8.1
 make
 make install
 
-git clone https://github.com/hy0454/scichicken.git
+git clone https://github.com/mom52121/scichicken.git
 cd scichicken/
 npm i
 npm i -g pino
